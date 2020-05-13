@@ -1,0 +1,14 @@
+{
+  "name": "sysinfoapp",
+  "version": "1.0.0",
+  "description": "A Simple Sys Info App",
+  "main": "Main.js",
+  "scripts": {
+    "start" : "electron ."
+  },
+  "author": "Ehtesham",
+  "license": "ISC",
+  "dependencies": {
+    "electron" : "^8.2.5"
+  }
+}
